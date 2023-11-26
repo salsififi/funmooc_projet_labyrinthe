@@ -1,0 +1,3 @@
+(1, 1), "des lunettes"
+(3, 2), "un champignon"
+(2, 3), "une saucisse"

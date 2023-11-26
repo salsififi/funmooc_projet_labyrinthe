@@ -1,0 +1,2 @@
+(2, 2), ("C'est la cloche du vieux...", "manoir")
+(1, 3), ("3 + 3?", "6")
